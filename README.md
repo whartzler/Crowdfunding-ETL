@@ -13,7 +13,7 @@ Once all the data extracted into a usebale database we transfored the Data.  We 
 ![image](https://user-images.githubusercontent.com/109490755/229894373-60073a18-4fe2-4a04-811a-e52c20034615.png)
 
 #### Load
-To load the data we used an ERD to create various tables within [quick database designs]9https://www.quickdatabasediagrams.com/) and exported the [Schema](https://github.com/whartzler/Crowdfunding-ETL/blob/main/crowdfunding_db_schema.sql) in PostGresSQL for analysis. 
+To load the data we used an ERD to create various tables within [quick database designs](https://www.quickdatabasediagrams.com/) and exported the [Schema](https://github.com/whartzler/Crowdfunding-ETL/blob/main/crowdfunding_db_schema.sql) in PostGresSQL for analysis. 
 ![image](https://user-images.githubusercontent.com/109490755/229894884-5cc0e421-69e2-4057-8573-ef211d1f843b.png)
 
 
