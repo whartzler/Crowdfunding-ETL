@@ -26,6 +26,5 @@ There is a lot to learn in the ETL process.  The main items learned in this sect
 
 
 #### Files
- - 
  - Extract_Transform_final_code - Jupyter Notebook that Extracts and Transforms the backer_info.csv to be input into a SQL Database.
  - Crowdfunding_SQL_Analysis:  SQL workbook that utilized the newly created table to input into our database and queried on the results.
