@@ -24,7 +24,12 @@ To load the data we used an ERD to create various tables within [quick database 
 #### Analysis   
 Finally we analyzed the tables and created queries to analyze the data.  
 1. First we created a table that joined the campaign and contacts tables on ID and included with all the distinct first names, last names, email address and amount left to reach the goal for all Live projects of each contact. 
-2. The Second table we created inlcuded joining two tables on ID and including the email address, first and last name of each backer, ID, company name description,end date of the campaing and remaining amount of the campaign goal.  
+![image](https://user-images.githubusercontent.com/109490755/231193829-c143631f-3806-40f4-b799-94de5dec131b.png)
+
+3. The Second table we created inlcuded joining two tables on ID and including the email address, first and last name of each backer, ID, company name description,end date of the campaing and remaining amount of the campaign goal.  
+![image](https://user-images.githubusercontent.com/109490755/231193964-80eaae6f-5c5d-4d6e-8b06-33e4d7e3577a.png)
+
+
 [Queries for SQL Analysis](https://github.com/whartzler/Crowdfunding-ETL/blob/main/crowdfunding_SQL_Analysis.sql) 
 
 ## Conclusion
