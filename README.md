@@ -5,7 +5,11 @@ Working with Britta we extracted CSV files, transformed the data so we can easil
 
 ## Process
 #### Extract
-First we Extracted the [Backer Info](https://github.com/whartzler/Crowdfunding-ETL/blob/main/Resources/backer_info.csv) dataset and performed some transformation.  The data within the CSV was all in one column.  We converted each row into a dictionary, converted into useable dataframe then exported the dataframe file to a CSV.  
+First we Extracted the [Backer Info](https://github.com/whartzler/Crowdfunding-ETL/blob/main/Resources/backer_info.csv) dataset and performed transformation.  The data within the CSV was all in one column.  
+
+![image](https://user-images.githubusercontent.com/109490755/231193143-e8d540d4-2e0b-456e-a0fa-b72bc05086d2.png)
+
+We converted each row into a dictionary, converted into useable dataframe then exported the dataframe file to a CSV.  
 ![image](https://user-images.githubusercontent.com/109490755/229884663-6ed4c2fc-0120-4074-9c45-33d747e47ade.png)
 
 #### Transform
